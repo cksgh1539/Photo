@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1679376155",
+    "firebase_url": "https://chanho-practice.firebaseio.com",
+    "project_id": "chanho-practice",
+    "storage_bucket": "chanho-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1679376155:android:0d891a42854c27192b9dbe",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1679376155-rta5fcdtghhl286jh0qf0mg8d4b4t4fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmUUQnlGvxdcpnklPpmzRftQsrUwAPJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1679376155-rta5fcdtghhl286jh0qf0mg8d4b4t4fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
